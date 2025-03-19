@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+{% block title %}Preview PDF{% endblock %}
+{% block content %}
+    <h2>Preview Your Edited Document</h2>
+    <div class="preview-content">{{ edited_content | safe }}</div>
+    <form action="/pdf/export" method="POST">
+        <button type="submit">Confirm & Export</button>
+    </form>
+{% endblock %}

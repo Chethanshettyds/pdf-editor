@@ -1,0 +1,7 @@
+Another PDF Title
+
+This is another paragraph extracted from a different PDF file.
+
+[Image Placeholder: Extracted Image - img1.png]
+
+Additional extracted content can be added here as needed.

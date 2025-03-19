@@ -1,0 +1,7 @@
+Flask
+Werkzeug
+pdf2htmlEX
+PyMuPDF
+WeasyPrint
+TinyMCE
+wkhtmltopdf
